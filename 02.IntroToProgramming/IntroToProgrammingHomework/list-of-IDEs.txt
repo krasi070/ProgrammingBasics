@@ -1,0 +1,16 @@
+1.Eclipse
+Eclipse contains a base workspace and an extensible plug-in system for customizing the environment. It can be used for
+application development. Programming languages you can use in Eclipse: Java,  Ada, ABAP, C, C++, COBOL, Fortran, 
+Haskell, JavaScript, Lasso, Lua, Natural, Perl, PHP, Prolog, Python, R, Ruby, Scala, Clojure, Groovy, Scheme, and Erlang.
+2.NetBeans
+NetBeans is a software development platform written in Java. NetBeans is mostly used to write in Java but you can use other
+languages such as PHP, C/C++ and HTML5. NetBeans is a cross-platform IDE.
+3.MonoDevelop
+MonoDevelop is an open source integrated development environment for Linux, OS X and Windows. It mainly focuses on development
+of projects that use Mono and .Net frameworks.It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala 
+and Visual Basic.NET.
+4.PhpStorm
+JetBrains PhpStorm is a commercial, cross-platform IDE for PHP built on JetBrains' IntelliJ IDEA platform. PhpStorm provides 
+an editor for PHP, HTML and JavaScript with on-the-fly code analysis.
+5.Zend Studio
+Zend Studio is a commercial, proprietary IDE for PHP. Zend Studio is integrated with Zend Framework.

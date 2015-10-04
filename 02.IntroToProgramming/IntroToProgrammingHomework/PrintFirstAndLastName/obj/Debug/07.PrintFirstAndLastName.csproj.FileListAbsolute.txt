@@ -1,0 +1,3 @@
+E:\Softuni\Homework\IntroToProgrammingHomework\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+E:\Softuni\Homework\IntroToProgrammingHomework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+E:\Softuni\Homework\IntroToProgrammingHomework\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb

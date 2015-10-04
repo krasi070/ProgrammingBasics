@@ -1,0 +1,5 @@
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersEasy\bin\Debug\02.SortingNumbersEasy.exe.config
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersEasy\bin\Debug\02.SortingNumbersEasy.exe
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersEasy\bin\Debug\02.SortingNumbersEasy.pdb
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersEasy\obj\Debug\02.SortingNumbersEasy.exe
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersEasy\obj\Debug\02.SortingNumbersEasy.pdb

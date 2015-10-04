@@ -1,0 +1,5 @@
+E:\Softuni\Homework\LoopsHomework\05.CalculateProblemFive\bin\Debug\05.CalculateProblemFive.exe.config
+E:\Softuni\Homework\LoopsHomework\05.CalculateProblemFive\bin\Debug\05.CalculateProblemFive.exe
+E:\Softuni\Homework\LoopsHomework\05.CalculateProblemFive\bin\Debug\05.CalculateProblemFive.pdb
+E:\Softuni\Homework\LoopsHomework\05.CalculateProblemFive\obj\Debug\05.CalculateProblemFive.exe
+E:\Softuni\Homework\LoopsHomework\05.CalculateProblemFive\obj\Debug\05.CalculateProblemFive.pdb

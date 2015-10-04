@@ -1,0 +1,6 @@
+G:\CSharpAdvancedTopicsHomework\08.LongestWordInText\bin\Debug\08.LongestWordInText.exe.config
+G:\CSharpAdvancedTopicsHomework\08.LongestWordInText\bin\Debug\08.LongestWordInText.exe
+G:\CSharpAdvancedTopicsHomework\08.LongestWordInText\bin\Debug\08.LongestWordInText.pdb
+G:\CSharpAdvancedTopicsHomework\08.LongestWordInText\obj\Debug\08.LongestWordInText.exe
+G:\CSharpAdvancedTopicsHomework\08.LongestWordInText\obj\Debug\08.LongestWordInText.pdb
+G:\CSharpAdvancedTopicsHomework\08.LongestWordInText\obj\Debug\08.LongestWordInText.csprojResolveAssemblyReference.cache

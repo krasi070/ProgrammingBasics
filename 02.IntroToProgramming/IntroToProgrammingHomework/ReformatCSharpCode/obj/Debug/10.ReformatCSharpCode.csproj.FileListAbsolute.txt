@@ -1,0 +1,3 @@
+E:\Softuni\Homework\IntroToProgrammingHomework\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+E:\Softuni\Homework\IntroToProgrammingHomework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+E:\Softuni\Homework\IntroToProgrammingHomework\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

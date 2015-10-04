@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+G:\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+G:\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+G:\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+G:\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+G:\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+G:\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb

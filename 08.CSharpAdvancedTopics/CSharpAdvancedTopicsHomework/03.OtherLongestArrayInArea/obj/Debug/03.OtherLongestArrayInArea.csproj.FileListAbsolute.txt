@@ -1,0 +1,6 @@
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\03.OtherLongestArrayInArea\bin\Debug\03.OtherLongestArrayInArea.exe.config
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\03.OtherLongestArrayInArea\bin\Debug\03.OtherLongestArrayInArea.exe
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\03.OtherLongestArrayInArea\bin\Debug\03.OtherLongestArrayInArea.pdb
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\03.OtherLongestArrayInArea\obj\Debug\03.OtherLongestArrayInArea.exe
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\03.OtherLongestArrayInArea\obj\Debug\03.OtherLongestArrayInArea.pdb
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\03.OtherLongestArrayInArea\obj\Debug\03.OtherLongestArrayInArea.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Softuni\Homework\LoopsHomework\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.exe.config
+E:\Softuni\Homework\LoopsHomework\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.exe
+E:\Softuni\Homework\LoopsHomework\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.pdb
+E:\Softuni\Homework\LoopsHomework\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.exe
+E:\Softuni\Homework\LoopsHomework\08.CatalanNumbers\obj\Debug\08.CatalanNumbers.pdb

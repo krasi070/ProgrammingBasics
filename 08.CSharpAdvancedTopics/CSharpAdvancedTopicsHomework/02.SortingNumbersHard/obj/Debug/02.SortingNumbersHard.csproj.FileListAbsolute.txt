@@ -1,0 +1,6 @@
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersHard\bin\Debug\02.SortingNumbersHard.exe.config
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersHard\bin\Debug\02.SortingNumbersHard.exe
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersHard\bin\Debug\02.SortingNumbersHard.pdb
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersHard\obj\Debug\02.SortingNumbersHard.csprojResolveAssemblyReference.cache
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersHard\obj\Debug\02.SortingNumbersHard.exe
+E:\Softuni\Homework\CSharpAdvancedTopicsHomework\02.SortingNumbersHard\obj\Debug\02.SortingNumbersHard.pdb

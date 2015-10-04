@@ -1,0 +1,5 @@
+E:\Softuni\Homework\LoopsHomework\06.CalculateDivisionBetweenFactorials\bin\Debug\06.CalculateDivisionBetweenFactorials.exe.config
+E:\Softuni\Homework\LoopsHomework\06.CalculateDivisionBetweenFactorials\bin\Debug\06.CalculateDivisionBetweenFactorials.exe
+E:\Softuni\Homework\LoopsHomework\06.CalculateDivisionBetweenFactorials\bin\Debug\06.CalculateDivisionBetweenFactorials.pdb
+E:\Softuni\Homework\LoopsHomework\06.CalculateDivisionBetweenFactorials\obj\Debug\06.CalculateDivisionBetweenFactorials.exe
+E:\Softuni\Homework\LoopsHomework\06.CalculateDivisionBetweenFactorials\obj\Debug\06.CalculateDivisionBetweenFactorials.pdb

@@ -1,0 +1,5 @@
+E:\Softuni\Homework\ConditionalStatementsHomework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+E:\Softuni\Homework\ConditionalStatementsHomework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+E:\Softuni\Homework\ConditionalStatementsHomework\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+E:\Softuni\Homework\ConditionalStatementsHomework\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+E:\Softuni\Homework\ConditionalStatementsHomework\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

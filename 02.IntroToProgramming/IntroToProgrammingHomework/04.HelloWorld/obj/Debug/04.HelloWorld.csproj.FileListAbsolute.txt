@@ -1,0 +1,9 @@
+E:\Softuni\Homework\IntroToProgrammingHomework\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
+E:\Softuni\Homework\IntroToProgrammingHomework\04.HelloWorld\obj\Debug\04.HelloWorld.csprojResolveAssemblyReference.cache
+E:\Softuni\Homework\IntroToProgrammingHomework\04.HelloWorld\bin\Debug\04.HelloWorld.exe
+E:\Softuni\Homework\IntroToProgrammingHomework\04.HelloWorld\bin\Debug\04.HelloWorld.pdb
+E:\Softuni\Homework\IntroToProgrammingHomework\04.HelloWorld\obj\Debug\04.HelloWorld.exe
+E:\Softuni\Homework\IntroToProgrammingHomework\04.HelloWorld\obj\Debug\04.HelloWorld.pdb
+D:\SoftUni\00.Basic Level(Programming Basics)\02.Intro to Programming\IntroToProgrammingHomework\04.HelloWorld\bin\Debug\04.HelloWorld.exe.config
+D:\SoftUni\00.Basic Level(Programming Basics)\02.Intro to Programming\IntroToProgrammingHomework\04.HelloWorld\obj\Debug\04.HelloWorld.exe
+D:\SoftUni\00.Basic Level(Programming Basics)\02.Intro to Programming\IntroToProgrammingHomework\04.HelloWorld\obj\Debug\04.HelloWorld.pdb

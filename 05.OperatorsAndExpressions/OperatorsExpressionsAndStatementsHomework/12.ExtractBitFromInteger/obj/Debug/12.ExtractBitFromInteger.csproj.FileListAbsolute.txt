@@ -1,0 +1,8 @@
+G:\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+G:\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+G:\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+G:\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+G:\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

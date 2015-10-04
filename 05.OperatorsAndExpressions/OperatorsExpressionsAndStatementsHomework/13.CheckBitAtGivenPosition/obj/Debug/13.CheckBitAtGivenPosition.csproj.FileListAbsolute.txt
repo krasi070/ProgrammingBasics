@@ -1,0 +1,8 @@
+G:\OperatorsExpressionsAndStatementsHomework\13.CheckBitAtGivenPosition\bin\Debug\13.CheckBitAtGivenPosition.exe.config
+G:\OperatorsExpressionsAndStatementsHomework\13.CheckBitAtGivenPosition\bin\Debug\13.CheckBitAtGivenPosition.exe
+G:\OperatorsExpressionsAndStatementsHomework\13.CheckBitAtGivenPosition\bin\Debug\13.CheckBitAtGivenPosition.pdb
+G:\OperatorsExpressionsAndStatementsHomework\13.CheckBitAtGivenPosition\obj\Debug\13.CheckBitAtGivenPosition.exe
+G:\OperatorsExpressionsAndStatementsHomework\13.CheckBitAtGivenPosition\obj\Debug\13.CheckBitAtGivenPosition.pdb
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\13.CheckBitAtGivenPosition\bin\Debug\13.CheckBitAtGivenPosition.exe.config
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\13.CheckBitAtGivenPosition\obj\Debug\13.CheckBitAtGivenPosition.exe
+E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\13.CheckBitAtGivenPosition\obj\Debug\13.CheckBitAtGivenPosition.pdb

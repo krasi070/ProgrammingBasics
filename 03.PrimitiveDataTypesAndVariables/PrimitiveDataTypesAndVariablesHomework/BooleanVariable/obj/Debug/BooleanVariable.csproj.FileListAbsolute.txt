@@ -1,0 +1,5 @@
+E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\bin\Debug\BooleanVariable.exe
+E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\bin\Debug\BooleanVariable.pdb
+E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.exe
+E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\BooleanVariable\obj\Debug\BooleanVariable.pdb

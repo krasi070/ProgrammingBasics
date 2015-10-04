@@ -1,0 +1,20 @@
+1.F#
+F# is a modern programming language for the .NET platform developed by a Microsoft Research team.
+You can code using F# in Visual Studio just like C#. 
+F#'s solutions are usually shorter than those of C#'s.
+2.Java
+Java is one of the most popular programming languages right now. Java was deleloped by James Gosling and was releasen in 1995.
+Both C# and Java are class-based object-oriented programming languages.
+There are slight differences in their syntaxes.
+3.JavaScript
+JavaScript is a dynamic programming language that is mostly used in web-based environments.
+Both languages are cross-platform.
+In Javascript you don't have to declare the variable or method type.
+4.C++
+C++ is an imperative and object-oriented programming language.
+Their syntaxes are very similar since C# inherets a lot of things from C++.
+C# is a component-oriented language while C++ isn't.
+5.Python
+Python is widely used high-level programming language.
+Both C# and Python are imperative and object-oriented programming languages.
+We use ";" in C# while in Python we use ":".
