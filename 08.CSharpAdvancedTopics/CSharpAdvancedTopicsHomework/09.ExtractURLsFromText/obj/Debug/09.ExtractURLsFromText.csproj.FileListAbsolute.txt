@@ -1,6 +1,0 @@
-G:\CSharpAdvancedTopicsHomework\09.ExtractURLsFromText\bin\Debug\09.ExtractURLsFromText.exe.config
-G:\CSharpAdvancedTopicsHomework\09.ExtractURLsFromText\bin\Debug\09.ExtractURLsFromText.exe
-G:\CSharpAdvancedTopicsHomework\09.ExtractURLsFromText\bin\Debug\09.ExtractURLsFromText.pdb
-G:\CSharpAdvancedTopicsHomework\09.ExtractURLsFromText\obj\Debug\09.ExtractURLsFromText.csprojResolveAssemblyReference.cache
-G:\CSharpAdvancedTopicsHomework\09.ExtractURLsFromText\obj\Debug\09.ExtractURLsFromText.exe
-G:\CSharpAdvancedTopicsHomework\09.ExtractURLsFromText\obj\Debug\09.ExtractURLsFromText.pdb

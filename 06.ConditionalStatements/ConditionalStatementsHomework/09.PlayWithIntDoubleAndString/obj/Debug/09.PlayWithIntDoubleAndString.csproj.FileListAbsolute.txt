@@ -1,6 +1,0 @@
-E:\Softuni\Homework\ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.exe.config
-E:\Softuni\Homework\ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.exe
-E:\Softuni\Homework\ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.pdb
-E:\Softuni\Homework\ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache
-E:\Softuni\Homework\ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.exe
-E:\Softuni\Homework\ConditionalStatementsHomework\09.PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.pdb

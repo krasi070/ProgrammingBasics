@@ -1,6 +1,0 @@
-E:\Softuni\Homework\IntroToProgrammingHomework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
-E:\Softuni\Homework\IntroToProgrammingHomework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
-E:\Softuni\Homework\IntroToProgrammingHomework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
-E:\Softuni\Homework\IntroToProgrammingHomework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
-E:\Softuni\Homework\IntroToProgrammingHomework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb
-E:\Softuni\Homework\IntroToProgrammingHomework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache

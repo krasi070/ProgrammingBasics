@@ -1,5 +1,0 @@
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.exe
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.exe
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

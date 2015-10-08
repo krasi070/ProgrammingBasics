@@ -1,6 +1,0 @@
-E:\Softuni\Homework\ConditionalStatementsHomework\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
-E:\Softuni\Homework\ConditionalStatementsHomework\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
-E:\Softuni\Homework\ConditionalStatementsHomework\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
-E:\Softuni\Homework\ConditionalStatementsHomework\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
-E:\Softuni\Homework\ConditionalStatementsHomework\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
-E:\Softuni\Homework\ConditionalStatementsHomework\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

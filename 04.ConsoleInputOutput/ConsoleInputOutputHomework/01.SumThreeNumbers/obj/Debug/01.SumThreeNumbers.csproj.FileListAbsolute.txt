@@ -1,6 +1,0 @@
-E:\Softuni\Homework\ConsoleInputOutputHomework\01.SumThreeNumbers\bin\Debug\01.SumThreeNumbers.exe.config
-E:\Softuni\Homework\ConsoleInputOutputHomework\01.SumThreeNumbers\bin\Debug\01.SumThreeNumbers.exe
-E:\Softuni\Homework\ConsoleInputOutputHomework\01.SumThreeNumbers\bin\Debug\01.SumThreeNumbers.pdb
-E:\Softuni\Homework\ConsoleInputOutputHomework\01.SumThreeNumbers\obj\Debug\01.SumThreeNumbers.csprojResolveAssemblyReference.cache
-E:\Softuni\Homework\ConsoleInputOutputHomework\01.SumThreeNumbers\obj\Debug\01.SumThreeNumbers.exe
-E:\Softuni\Homework\ConsoleInputOutputHomework\01.SumThreeNumbers\obj\Debug\01.SumThreeNumbers.pdb

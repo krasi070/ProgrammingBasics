@@ -1,9 +1,0 @@
-G:\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe.config
-G:\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe
-G:\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.pdb
-G:\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
-G:\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.exe
-G:\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.pdb
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe.config
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.exe
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.pdb

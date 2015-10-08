@@ -1,5 +1,0 @@
-G:\CSharpAdvancedTopicsHomework\07.JoinLists\bin\Debug\07.JoinLists.exe.config
-G:\CSharpAdvancedTopicsHomework\07.JoinLists\bin\Debug\07.JoinLists.exe
-G:\CSharpAdvancedTopicsHomework\07.JoinLists\bin\Debug\07.JoinLists.pdb
-G:\CSharpAdvancedTopicsHomework\07.JoinLists\obj\Debug\07.JoinLists.exe
-G:\CSharpAdvancedTopicsHomework\07.JoinLists\obj\Debug\07.JoinLists.pdb

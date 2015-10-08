@@ -1,8 +1,0 @@
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

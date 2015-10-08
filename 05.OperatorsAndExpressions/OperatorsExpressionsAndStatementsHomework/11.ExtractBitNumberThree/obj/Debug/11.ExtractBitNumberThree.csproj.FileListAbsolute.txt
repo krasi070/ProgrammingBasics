@@ -1,8 +1,0 @@
-G:\OperatorsExpressionsAndStatementsHomework\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.exe.config
-G:\OperatorsExpressionsAndStatementsHomework\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.exe
-G:\OperatorsExpressionsAndStatementsHomework\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.pdb
-G:\OperatorsExpressionsAndStatementsHomework\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.exe
-G:\OperatorsExpressionsAndStatementsHomework\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.pdb
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.exe.config
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.exe
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.pdb

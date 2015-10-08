@@ -1,5 +1,0 @@
-E:\Softuni\Homework\ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.exe.config
-E:\Softuni\Homework\ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.exe
-E:\Softuni\Homework\ConditionalStatementsHomework\02.BonusScore\bin\Debug\02.BonusScore.pdb
-E:\Softuni\Homework\ConditionalStatementsHomework\02.BonusScore\obj\Debug\02.BonusScore.exe
-E:\Softuni\Homework\ConditionalStatementsHomework\02.BonusScore\obj\Debug\02.BonusScore.pdb

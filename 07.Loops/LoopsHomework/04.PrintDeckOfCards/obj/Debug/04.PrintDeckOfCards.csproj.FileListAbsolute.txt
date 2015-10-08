@@ -1,5 +1,0 @@
-E:\Softuni\Homework\LoopsHomework\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.exe.config
-E:\Softuni\Homework\LoopsHomework\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.exe
-E:\Softuni\Homework\LoopsHomework\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.pdb
-E:\Softuni\Homework\LoopsHomework\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.exe
-E:\Softuni\Homework\LoopsHomework\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.pdb

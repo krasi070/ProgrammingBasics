@@ -1,6 +1,0 @@
-E:\Softuni\Homework\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
-E:\Softuni\Homework\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
-E:\Softuni\Homework\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
-E:\Softuni\Homework\ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
-E:\Softuni\Homework\ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb
-E:\Softuni\Homework\ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.csprojResolveAssemblyReference.cache

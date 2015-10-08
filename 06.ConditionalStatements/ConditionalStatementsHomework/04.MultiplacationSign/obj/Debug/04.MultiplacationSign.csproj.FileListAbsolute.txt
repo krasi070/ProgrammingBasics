@@ -1,6 +1,0 @@
-E:\Softuni\Homework\ConditionalStatementsHomework\04.MultiplacationSign\bin\Debug\04.MultiplacationSign.exe.config
-E:\Softuni\Homework\ConditionalStatementsHomework\04.MultiplacationSign\bin\Debug\04.MultiplacationSign.exe
-E:\Softuni\Homework\ConditionalStatementsHomework\04.MultiplacationSign\bin\Debug\04.MultiplacationSign.pdb
-E:\Softuni\Homework\ConditionalStatementsHomework\04.MultiplacationSign\obj\Debug\04.MultiplacationSign.csprojResolveAssemblyReference.cache
-E:\Softuni\Homework\ConditionalStatementsHomework\04.MultiplacationSign\obj\Debug\04.MultiplacationSign.exe
-E:\Softuni\Homework\ConditionalStatementsHomework\04.MultiplacationSign\obj\Debug\04.MultiplacationSign.pdb

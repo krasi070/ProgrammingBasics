@@ -1,1 +1,0 @@
-E:\Softuni\Homework\IntroToProgrammingHomework\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config

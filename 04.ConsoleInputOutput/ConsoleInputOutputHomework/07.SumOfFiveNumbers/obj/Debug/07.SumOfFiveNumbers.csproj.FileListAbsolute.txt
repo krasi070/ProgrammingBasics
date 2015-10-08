@@ -1,6 +1,0 @@
-E:\Softuni\Homework\ConsoleInputOutputHomework\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe.config
-E:\Softuni\Homework\ConsoleInputOutputHomework\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.exe
-E:\Softuni\Homework\ConsoleInputOutputHomework\07.SumOfFiveNumbers\bin\Debug\07.SumOfFiveNumbers.pdb
-E:\Softuni\Homework\ConsoleInputOutputHomework\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.csprojResolveAssemblyReference.cache
-E:\Softuni\Homework\ConsoleInputOutputHomework\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.exe
-E:\Softuni\Homework\ConsoleInputOutputHomework\07.SumOfFiveNumbers\obj\Debug\07.SumOfFiveNumbers.pdb

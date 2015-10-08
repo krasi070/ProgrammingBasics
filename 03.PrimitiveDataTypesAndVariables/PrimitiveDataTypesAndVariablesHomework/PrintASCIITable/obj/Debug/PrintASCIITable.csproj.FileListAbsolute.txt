@@ -1,6 +1,0 @@
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.exe
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.csprojResolveAssemblyReference.cache
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.exe
-E:\Softuni\Homework\PrimitiveDataTypesAndVariablesHomework\PrintASCIITable\obj\Debug\PrintASCIITable.pdb

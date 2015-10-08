@@ -1,8 +1,0 @@
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
-C:\Users\user\Desktop\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb

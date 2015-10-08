@@ -1,9 +1,0 @@
-G:\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
-G:\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\bin\Debug\15.BitsExchange.exe
-G:\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
-G:\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\obj\Debug\15.BitsExchange.exe
-G:\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
-G:\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\obj\Debug\15.BitsExchange.exe
-E:\Softuni\Homework\OperatorsExpressionsAndStatementsHomework\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

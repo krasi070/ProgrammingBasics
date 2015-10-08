@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
-C:\Users\user\Desktop\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
-C:\Users\user\Desktop\LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
-C:\Users\user\Desktop\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
-C:\Users\user\Desktop\LoopsHomework\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb
