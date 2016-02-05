@@ -1,5 +1,0 @@
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.exe.config
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.pdb
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\03. CirclePerimeterAndArea\obj\Debug\_03.CirclePerimeterAndArea.exe
-C:\Users\User\Desktop\HomeworkConsoleInputOutput\03. CirclePerimeterAndArea\obj\Debug\_03.CirclePerimeterAndArea.pdb
